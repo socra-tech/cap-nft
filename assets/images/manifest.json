@@ -1,0 +1,21 @@
+{
+	"start_url": "./",
+	"name": "Sadbears",
+	"display": "standalone",
+	"theme_color": "#1d4449",
+	"background_color": "#000000",
+	"description":"ARE YOU BEAR ENOUGH TO BE A SAD BEAR HOLDER?",
+	"icons": [
+		{
+			"src": "/assets/images/png/size/bear7.png",
+			"type": "image/png",
+			"sizes": "692x692"
+		},
+		{
+			"src": "/assets/images/png/size/bear7.png",
+			"sizes": "692x692",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	  ]
+  }

@@ -1,0 +1,232 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/gsap.min.js
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\ajax\libs\gsap\3.5.1\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/gsap/3.5.1/ScrollTrigger.min.js
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\ajax\libs\gsap\3.5.1\ScrollTrigger.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\ajax\libs\jquery\3.6.0\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://sadbears.atstudio1.com/
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\index.htm
+Content Type: text/html
+
+Uri: https://sadbears.atstudio1.com/assets/css/app.css?v=1676304581550
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\css\app.css
+Content Type: text/css
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Druk-Wide-_1_.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Druk-Wide-_1_.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Graphik-Bold.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Graphik-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Graphik-Regular.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Graphik-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Laila-Bold.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Laila-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Laila-Medium.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Laila-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Laila-Regular.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Laila-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Roboto-Bold.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Roboto-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Roboto-Medium.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Roboto-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/fonts/Roboto-Regular.woff2
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\fonts\Roboto-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://sadbears.atstudio1.com/assets/images/bg--road.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\bg--road.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/connect-bg.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\connect-bg.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/faq-decor--mobil.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\faq-decor--mobil.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/fog-bgNo.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\fog-bgNo.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/manifest.json
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\manifest.json
+Content Type: application/json
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/bear-gif--small.gif
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\bear-gif--small.gif
+Content Type: image/gif
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/bear-gif.gif
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\bear-gif.gif
+Content Type: image/gif
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/blue-bear--mobil.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\blue-bear--mobil.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/blue-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\blue-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/favicon.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\favicon.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/jefe-bear--mobil.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\jefe-bear--mobil.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/jefe-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\jefe-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/main-screen__img5.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\main-screen__img5.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/nugget-bear--mobil.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\nugget-bear--mobil.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/nugget-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\nugget-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/picasso-bear--mobil.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\picasso-bear--mobil.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/picasso-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\picasso-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/bear7.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\bear7.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/bear7.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\bear7.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/blue-bear.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\blue-bear.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/blue-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\blue-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/faq-bg2.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\faq-bg2.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/faq-bg2.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\faq-bg2.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/jefe-bear.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\jefe-bear.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/jefe-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\jefe-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/main-screen__img1.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\main-screen__img1.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/main-screen__img2.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\main-screen__img2.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/main-screen__img3.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\main-screen__img3.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/main-screen__img4.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\main-screen__img4.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/nugget-bear.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\nugget-bear.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/nugget-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\nugget-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/picasso-bear.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\picasso-bear.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/picasso-bear.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\picasso-bear.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/team-bgCop.png
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\team-bgCop.png
+Content Type: image/png
+
+Uri: https://sadbears.atstudio1.com/assets/images/png/size/team-bgCop.webp
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\png\size\team-bgCop.webp
+Content Type: image/webp
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/cursor.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\cursor.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/discord.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/faq-title-arrow.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\faq-title-arrow.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/heart.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/road-decor2.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\road-decor2.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/road-decor3.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\road-decor3.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/road-map-decorAnim.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\road-map-decorAnim.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/assets/images/svg/twitter.svg
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\assets\images\svg\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://sadbears.atstudio1.com/js/app.js?v=1676304581394
+File Name: C:\Downloaded Web Sites\sadbears.atstudio1.com\js\app.js
+Content Type: application/javascript
+
