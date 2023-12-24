@@ -64,7 +64,7 @@
         const filteredList = all_data.filter((item) => {
           return item.fields.addreses === filter_address;
         })
-        var output = `<p> Role : ${filteredList[0].fields.role}</p>`;
+        var output = `<p id="role"> Role : ${filteredList[0].fields.role}</p>`;
         document.getElementById("records").innerHTML = output
     } 
 </script>
@@ -216,9 +216,11 @@
           <p class="main-screen__description at-element" data-at-name="atTitle2" style="opacity: 0;">Join the Captains of Wealth..</p>
           <div class="connect__links at-element" data-at-name="atCustom"><a class="cursor-hover click-music" href="https://discord.gg/bXtukRaKD2" target="_blank"><img src="assets/images/svg/discord.svg" alt="">
           <p>Connect Discord</p></a></div>
-          <input id="filter_address"  placeholder="Please enter your address"/>
-          <button onclick="filter_records()">Get Records</button>
-          <div id="records"></div>
+          <div id="styled_div">
+            <input id="filter_address"  placeholder="Please enter your address"/>
+            <button id="filter_button" onclick="filter_records()">Get Records</button>
+            <div id="records"></div>
+          </div>
           <!-- <h1 class="main-screen__description at-element" data-at-name="atTitle2" style="opacity: 0;margin-top: 2rem;">Whitelist Checker</h1>
   
           <label for="inputString">Enter a sei Address:</label>
