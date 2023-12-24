@@ -10,23 +10,68 @@
     <link rel="icon" type="image/png" href="assets/images/png/favicon.png">
     <link rel="apple-touch-icon" href="assets/images/png/favicon.png">
   <link href="assets/css/app.css" rel="stylesheet">
-  <!-- <script>
-    function checkWhitelist() {
-      var inputString = document.getElementById("inputString").value;
-      var whitelist = ["apple", "banana", "orange", "grape"];
-      var isWhitelisted = whitelist.includes(inputString);
-      
-      if (isWhitelisted) {
-        document.getElementById("result").textContent = "The string is whitelisted!";
-      } else {
-        document.getElementById("result").textContent = "The string is not whitelisted.";
-      }
+  <script>
+    var all_data = []
+    const get_data = async (apiKey,baseId,tableName,offset,pageNum) => {
+         
+          var fetched_data = {}
+          var output = "";
+          fetch_url = `https://api.airtable.com/v0/${baseId}/${encodeURIComponent(tableName)}?view=Grid%20view`
+          if (offset != undefined && offset != null)
+          {
+            fetch_url = `https://api.airtable.com/v0/${baseId}/${encodeURIComponent(tableName)}?view=Grid%20view&offset=${offset}`
+          } 
+          else if (pageNum >0){
+            return;
+          }
+
+          fetch(fetch_url, {
+            headers: {
+                Authorization: `Bearer ${apiKey}`
+                }
+          })
+          .then(response => response.json())
+          .then(data => {
+              fetched_data = data
+              var records = fetched_data.records;
+              all_data = all_data.concat(records)
+              get_data(apiKey,baseId,tableName,fetched_data.offset,pageNum+1)
+              
+          })
+          .catch(err => {
+              console.error(err);
+          });
+
+         
+          return fetched_data
+    } 
+
+    async function fetchRecords() {
+        var apiKey = 'patYCe1dIucpwcADx.05b8843ef5d7e3b1d8b8d990c28e6b09e999e0334906be47c8487cda55f33c39'; // Be cautious with your API key
+        var baseId = 'appPFGCS5YO1pOO6u';
+        var tableName = 'Table 1';
+ 
+        var fetched_data = {}
+
+  
+        await get_data(apiKey,baseId,tableName,fetched_data.offset,0)
+        
     }
-  </script> -->
+    function filter_records(){
+
+      var filter_address = document.getElementById("filter_address").value;
+
+        const filteredList = all_data.filter((item) => {
+          return item.fields.addreses === filter_address;
+        })
+        var output = `<p> Role : ${filteredList[0].fields.role}</p>`;
+        document.getElementById("records").innerHTML = output
+    } 
+</script>
 
 
 </head>
-  <body>
+  <body onload="fetchRecords()">
     <div class="cursor">
       <div class="cursor__icon">
         <svg class="points__link-arrow" viewbox="0 0 15 17" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -171,6 +216,9 @@
           <p class="main-screen__description at-element" data-at-name="atTitle2" style="opacity: 0;">Join the Captains of Wealth..</p>
           <div class="connect__links at-element" data-at-name="atCustom"><a class="cursor-hover click-music" href="https://discord.gg/bXtukRaKD2" target="_blank"><img src="assets/images/svg/discord.svg" alt="">
           <p>Connect Discord</p></a></div>
+          <input id="filter_address"  placeholder="Please enter your address"/>
+          <button onclick="filter_records()">Get Records</button>
+          <div id="records"></div>
           <!-- <h1 class="main-screen__description at-element" data-at-name="atTitle2" style="opacity: 0;margin-top: 2rem;">Whitelist Checker</h1>
   
           <label for="inputString">Enter a sei Address:</label>
